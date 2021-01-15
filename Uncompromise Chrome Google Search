@@ -1,0 +1,1 @@
+Go to search engines, create a custom one and just put **https://google.com?q=%s**, this makes it so the search query URL (uneditable) isn't tracked.
